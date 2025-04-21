@@ -1,0 +1,66 @@
+{
+  "services": [
+    {
+      "id": "12sd",
+      "url": "https://s3.envato.com/files/335189330/15611.png",
+      "title": "Business Planning",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    },
+    {
+      "id": "12dn3",
+      "url": "https://4pda.to/s/as6yrz2e3BsffD2cmmsz01k76hq7y8Zz2Q0p1WBn4iz0Jz2sxrjS.png",
+      "title": "Financial Planning",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    },
+    {
+      "id": "12rf3",
+      "url": "https://b5.3ddd.ru/media/cache/sky_user_avatar_profile/avatar/users/60265d19dbf9e.png",
+      "title": "Market Analysis",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    },
+    {
+      "id": "12ds3",
+      "url": "https://s3.envato.com/files/335189330/15611.png",
+      "title": "Business Planning",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    },
+    {
+      "id": "12m3",
+      "url": "https://4pda.to/s/as6yrz2e3BsffD2cmmsz01k76hq7y8Zz2Q0p1WBn4iz0Jz2sxrjS.png",
+      "title": "Financial Planning",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    },
+    {
+      "id": "1q23",
+      "url": "https://b5.3ddd.ru/media/cache/sky_user_avatar_profile/avatar/users/60265d19dbf9e.png",
+      "title": "Market Analysis",
+      "description": "There are many variations of passages of Lorem Ipsum available but majority have suffered"
+    }
+  ],
+  "blog": [
+    {
+      "url": "https://i.pinimg.com/736x/64/d3/af/64d3af8170304c780920f06f89ecdf63.jpg",
+      "title": "Free Font Alternatives: The Ultimate Guide"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/TnlwvXPl4CQ/hqdefault.jpg",
+      "title": "100 Things a UX/UI Designer Should Know"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "ADMIN"
+    },
+    {
+      "id": "e4fc",
+      "username": "nizom",
+      "email": "nizom@gmail.com",
+      "password": "root123",
+      "role": "USER"
+    }
+  ]
+}
